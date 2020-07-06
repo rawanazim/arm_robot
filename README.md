@@ -1,6 +1,11 @@
 # arm_robot
 controlling servo motors with arduino and a simulation with gazebo in ROS
 
+servo motor will rotate and wait for 2 sec and then go back to its position.
+In forward kinematic, the x,y value were calculated and printed out in the serial monitor. 
+In inverse kinematic, the angles were calculated and printed out in serial monitor.
+See the screenshoots.
+..............................................................................................................
 To run ros workspace:
 
 $ roslaunch custom_robotic_arm arm_gazebo.launch 
