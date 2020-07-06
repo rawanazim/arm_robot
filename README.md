@@ -1,5 +1,5 @@
 # arm_robot
-controlling servo motors with arduino and a simulation with gazebo in ROS
+"Controlling Servo Motors with Arduino and a Simulation with Gazebo in ROS"
 
 servo motor will rotate and wait for 2 sec and then go back to its position.
 
